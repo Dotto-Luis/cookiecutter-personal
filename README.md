@@ -1,7 +1,7 @@
 # Cookiecuter Personal Platzi
 
 <!-- badges: start -->
-[![@jvelzmagic](https://img.shields.io/badge/@jvelezmagic-Sitio_personal-blue?&logoColor=white)](https://jvelezmagic.com/) 
+[![@dotto-Luis](https://img.shields.io/badge/@Dotto_Luis-Sitio_personal-blue?&logoColor=white)](https://github.com/Dotto-Luis) 
 [![Platzi](https://img.shields.io/badge/Curso_Platzi-Configuración_Avanzada_...-green&logoColor=white)](https://platzi.com/datos/)
 <!-- badges: end -->
 
